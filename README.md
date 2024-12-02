@@ -18,7 +18,7 @@ To run the code, you need to have the following installed:
 
 #### Windows
 
-If you're on Windows, you can install Zig via **Chocolatey** or **Scoop**:
+If you're on Windows, you can install Zig via **Chocolatey**:
 
 ```sh
 # Using Chocolatey
@@ -49,5 +49,5 @@ This will execute the code and output the results for the day.
 ## File Organization
 src/: Contains all Zig solutions.
 
-input.txt: This is the input file that is used for solving the problems.
+input.txt: This is the input file that you must download from [AoC](https://adventofcode.com/2024). It will not be included in the repository.
 
